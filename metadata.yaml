@@ -1,0 +1,39 @@
+_repo: The-Communist-Threat-in-the-Taiwan-Area_16142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dulles, John Foster
+    birthdate: 1888
+    deathdate: 1959
+    gutenberg_agent_id: '6512'
+    url: http://www.gutenberg.org/2009/agents/6512
+    wikipedia: http://en.wikipedia.org/wiki/John_Foster_Dulles
+  - agent_name: Eisenhower, Dwight D. (Dwight David)
+    aliases:
+    - Eisenhower, Ike
+    - United States President (1953-1961)
+    birthdate: 1890
+    deathdate: 1969
+    gutenberg_agent_id: '1665'
+    url: http://www.gutenberg.org/2009/agents/1665
+    wikipedia: http://en.wikipedia.org/wiki/Dwight_D._Eisenhower
+description: ''
+gutenberg_issued: '2005-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16142'
+  lccn: '58062107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations -- China'
+- !lcsh 'Taiwan -- Defenses'
+- !lcsh 'China -- Foreign relations -- United States'
+- !lcc 'DS'
+title: The Communist Threat in the Taiwan Area
+url: http://www.gutenberg.org/ebooks/16142
