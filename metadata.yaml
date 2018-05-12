@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1665
     wikipedia: http://en.wikipedia.org/wiki/Dwight_D._Eisenhower
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16142#The-Communist-Threat-in-the-Taiwan-Area
 gutenberg_issued: '2005-06-28'
 gutenberg_type: Text
 identifiers:
